@@ -26,3 +26,5 @@ Enlace al tablero del proyecto (si existe)
 Crear rama personal  
 
 Realizar commit y push individual  
+
+Actualizado por Roberto el 20/10/2026 a las 18:07 horas
