@@ -10,7 +10,7 @@ Web para una pastalería especializada en Tartas personalizadas y pastelería fr
 Integrantes  
 Product Owner -> Roberto 
 
-Scrum Master -> Daniel Marco 
+Scrum Master -> Daniel
 
 Equipo de Desarrollo -> Miguel Angel y Marcos  
 
